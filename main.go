@@ -159,6 +159,7 @@ Where search params is a space separated set of:
 Categories:
     Cc: Control
     Cf: Format
+    Cn: Not Assigned
     Co: Private Use
     Cs: Surrrogate
     Ll: Lowercase Letter
